@@ -1,0 +1,11 @@
+
+.profile-name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48;
+    float: left;
+}
+.profile-image{
+    width: 25%;
+    height: 100%;
+    float: right;
+}
